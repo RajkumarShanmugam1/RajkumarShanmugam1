@@ -1,8 +1,3 @@
-
-<!--
-**Sriraj151/Sriraj151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
-
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&pause=100&width=550&height=70&lines=Hi 👋, I'm Rajkumar S" alt="Welcome" /></p>
 
 <h2 align="center">Networks and Cyber Security Enthusiast</h2>
