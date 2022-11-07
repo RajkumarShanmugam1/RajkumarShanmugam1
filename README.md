@@ -30,8 +30,8 @@ Here are some ideas to get you started:-->
 <h3 align="left">Performance :</h3>
 <p align="left">
 <a href="https://tryhackme.com/p/sriraj15110" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40" width="50" /></a> 
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/s_rajkumar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/s_rajkumar11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rajkumar_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajkumar_s/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/s_rajkumar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/s_rajkumar11" height="30" width="40" /></a>
+<a href="https://leetcode.com/rajkumar_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajkumar_s/" height="30" width="40" /></a>
 
 </p>
 
