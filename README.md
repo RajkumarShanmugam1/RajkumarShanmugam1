@@ -6,8 +6,9 @@
 
 
 - 🌱 I’m currently learning Computer Networks.
-- 🔭 I’m currently doing Capture The Flag (CTF).
-- 👯 I’m looking to collaborate on open sources
+- 🔭 I’m currently playing Capture The Flag (CTF).
+- 👯 I’m looking to collaborate on open sources.
+- ⚡ Fun fact: 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
