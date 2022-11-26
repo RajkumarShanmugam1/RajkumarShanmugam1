@@ -1,6 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&pause=100&width=530&height=70&lines=Hi, I'm S Rajkumar" alt="Welcome" /></p>
 
-<h2 align="center">Computer Networks and Cyber Security Enthusiast</h2>
+> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&color=20D757&vCenter=true&height=35&lines=$+whoami;$+CTF+Player+;$+Open+source+;$+Computer+Networks+Greek;$+Cyber+Security+Enthusiast;)
+
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
