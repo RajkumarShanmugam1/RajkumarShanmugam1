@@ -25,19 +25,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raj-kumar-shanmugam" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar-s-bb5520186" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-kumar-shanmugam" height="30" width="40" />
 </a>
 </p>
 
 <h3 align="left">Performance :</h3>
 <p align="left">
-<a href="https://tryhackme.com/p/sriraj15110" target="blank">
+<a href="https://tryhackme.com/p/sriraj15110" target="_blank">
   <img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40" width="50" />
 </a> 
-<a href="https://www.hackerrank.com/s_rajkumar11" target="blank">
+<a href="https://www.hackerrank.com/s_rajkumar11" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/s_rajkumar11" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/rajkumar_s/" target="blank">
+<a href="https://leetcode.com/rajkumar_s/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajkumar_s/" height="30" width="40" />
 </a>
 </p>
