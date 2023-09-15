@@ -41,6 +41,9 @@
 <a href="https://leetcode.com/RajkumarShanmugam1/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/RajkumarShanmugam1/" height="30" width="40" />
 </a>
+<a href="https://www.codechef.com/users/rajkumars15" target="_blank" rel="noreferrer">
+  <img align="center" src="https://cdn-1.webcatalog.io/catalog/codechef/codechef-icon-filled-256.png?v=1675596522631" alt="https://www.codechef.com/users/rajkumars15" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
