@@ -173,7 +173,7 @@
  </p>
  
  <p>
-   <img style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=RajkumarShanmugam1&show_icons=true&locale=en" alt="RajkumarShanmugam" />
-   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarShanmugam1&" alt="RajkumarShanmugam" />
+   <img style="margin-left: 10px;" width="350" src="https://github-readme-stats.vercel.app/api?username=RajkumarShanmugam1&show_icons=true&locale=en" alt="RajkumarShanmugam" />
+   <img align="right"  width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarShanmugam1&" alt="RajkumarShanmugam" />
   </p>
 <h1 align="center">நன்றி 🙏 வணக்கம்</h1>
