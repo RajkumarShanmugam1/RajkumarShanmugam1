@@ -5,12 +5,13 @@
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning Penetration Testing and IAM.
-- 🔭 I’m currently contribute to secure companies through VDP or BBP.
+- 🔭 I contribute to securing companies through **VDP** or **BBP**..
 - 👯 I’m looking to collaborate on open sources.
 - 👨‍💻 More About me [Porfolio](https://rajkumarshanmugam1.github.io/Portfolio/)
 - 📝 I write articles on [medium](https://medium.com/@rajkumarshanmugam)
+- 🎖 Some Achievements: [Credly Profile](https://www.credly.com/users/rajkumarshanmugam)
 - 💬 Ask me about **Bugbounty , Android Security**
-- ⚡ Fun fact : google - 10000000000.... (unlimited 0)
+- ⚡ Fun Facts About Me : I'm always looking for creative ways to break things (ethically, of course!) to make them more secure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
